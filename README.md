@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudheendra141
 - 👀 I’m interested in Java,AWS,SQL,DSA
-- 🌱 I’m currently  doing intenship at open Text
+- 🌱 I’m currently  doing intenship at OpenText
 - 📫 You can reach me on sudheendramurugula@gmail.com
 
 <!---
